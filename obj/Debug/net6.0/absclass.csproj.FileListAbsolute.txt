@@ -1,0 +1,15 @@
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\bin\Debug\net6.0\absclass.exe
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\bin\Debug\net6.0\absclass.deps.json
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\bin\Debug\net6.0\absclass.runtimeconfig.json
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\bin\Debug\net6.0\absclass.dll
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\bin\Debug\net6.0\absclass.pdb
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\obj\Debug\net6.0\absclass.csproj.AssemblyReference.cache
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\obj\Debug\net6.0\absclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\obj\Debug\net6.0\absclass.AssemblyInfoInputs.cache
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\obj\Debug\net6.0\absclass.AssemblyInfo.cs
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\obj\Debug\net6.0\absclass.csproj.CoreCompileInputs.cache
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\obj\Debug\net6.0\absclass.dll
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\obj\Debug\net6.0\refint\absclass.dll
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\obj\Debug\net6.0\absclass.pdb
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\obj\Debug\net6.0\absclass.genruntimeconfig.cache
+C:\Users\sophi\OneDrive\Documents\C# Class\absclass\obj\Debug\net6.0\ref\absclass.dll
